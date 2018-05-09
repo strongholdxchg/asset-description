@@ -1,4 +1,4 @@
-#Asset Description
+# Asset Description
 
 This is an open source asset description framework for the Stellar ecosystem.  The intention for this is to be a framework for issuers on the Stellar network to give information about the asset they are issueing.  This could be added to the .toml file for each asset.
 
