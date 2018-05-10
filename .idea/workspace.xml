@@ -21,7 +21,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="2" selection-start-column="2" selection-end-column="2" />
+                <caret column="2" selection-start-column="2" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,7 +51,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="73" />
-    <option name="y" value="56" />
+    <option name="y" value="26" />
     <option name="width" value="1870" />
     <option name="height" value="1027" />
   </component>
@@ -113,15 +113,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525837624061</updated>
-      <workItem from="1525837625394" duration="1076000" />
+      <workItem from="1525837625394" duration="2631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1076000" />
+    <option name="totallyTimeSpent" value="2631000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="56" width="1870" height="1027" extended-state="0" />
+    <frame x="73" y="26" width="1870" height="1027" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959394" />
@@ -154,7 +154,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <caret column="2" selection-start-column="2" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
