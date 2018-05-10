@@ -17,6 +17,8 @@ Retail and Institutional
 
 ### Compliance Guidelines
 
+All owners must have KYC.  Enhanced KYC is required for more than $10,000 USD.
+
 ### Location Guidelines
 
 All locations except OFAC listed countries
