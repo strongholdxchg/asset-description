@@ -1,6 +1,6 @@
 # Digital Asset Disclosure
 
-This is an open source digital asset disclosure framework for the blockchain ecosystem.  The intention for this is to be a framework for issuers on the Stellar network or any other blockchain network to give information about the asset they are issueing.  This could be added to the .toml file for each asset.
+This is an open source digital asset disclosure framework for the blockchain ecosystem.  The intention for this is to be a framework for issuers on the Stellar network or any other blockchain network to give information about the asset they are issuing.  This could be added to the .toml file for each asset.
 
 This was inspired by Dr. David Mazieres.
 
