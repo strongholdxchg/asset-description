@@ -11,7 +11,7 @@ Cryptocurrency
 
 ### Image of Asset
 
-(https://github.com/strongholdxchg/asset-description/blob/master/images/bitcoin.jpg)
+(https://github.com/strongholdxchg/asset-description/blob/master/images/bitcoin-icon.png)
 
 ### User Guidelines
 
