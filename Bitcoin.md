@@ -37,4 +37,8 @@ Any node can validate this transaction over the Stellar network.
 
 ### Stronghold BTC Public Key
 
+GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG
 
+### Stronghold BTC Public Ledger
+
+https://stellar.expert/explorer/public/asset/BTC-GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG
