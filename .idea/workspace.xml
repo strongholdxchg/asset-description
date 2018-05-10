@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9996d69b-5ea4-4896-8a78-76fc177223d3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +21,20 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="2" selection-start-column="2" selection-end-column="26" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="95" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="95" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bitcoin.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bitcoin.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -36,6 +49,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/bitcoin.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -51,7 +65,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="73" />
-    <option name="y" value="26" />
+    <option name="y" value="56" />
     <option name="width" value="1870" />
     <option name="height" value="1027" />
   </component>
@@ -113,15 +127,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525837624061</updated>
-      <workItem from="1525837625394" duration="2631000" />
+      <workItem from="1525837625394" duration="3565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2631000" />
+    <option name="totallyTimeSpent" value="3565000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="26" width="1870" height="1027" extended-state="1" />
+    <frame x="73" y="56" width="1870" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959394" />
@@ -150,11 +164,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Bitcoin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="2" selection-start-column="2" selection-end-column="26" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="95" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="95" />
           </first_editor>
           <second_editor />
         </state>
