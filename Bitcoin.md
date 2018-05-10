@@ -42,3 +42,7 @@ GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG
 ### Stronghold BTC Public Ledger
 
 https://stellar.expert/explorer/public/asset/BTC-GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG
+
+### Bitcoin Metrics
+
+https://onchainfx.com/asset/bitcoin
