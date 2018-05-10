@@ -11,6 +11,8 @@ Cryptocurrency
 
 ### Image of Asset
 
+(https://github.com/strongholdxchg/asset-description/blob/master/images/bitcoin.jpg)
+
 ### User Guidelines
 
 Retail and Institutional
