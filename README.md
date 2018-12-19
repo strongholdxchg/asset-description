@@ -21,3 +21,14 @@ This was inspired by Dr. David Mazieres.
 - Asset native to Stellar (yes or no)
 - Validator requirements (3 of 5 stronghold nodes to validate transaction)
 - Public Keys
+
+
+# Listed Assets
+
+USD(S)
+BTC
+XRP
+ETH
+XLM
+LTC
+SHx
