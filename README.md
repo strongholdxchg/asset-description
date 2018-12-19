@@ -25,10 +25,10 @@ This was inspired by Dr. David Mazieres.
 
 # Listed Assets
 
-USD(S)
-BTC
-XRP
-ETH
-XLM
-LTC
-SHx
+- USD(S)
+- BTC
+- XRP
+- ETH
+- XLM
+- LTC
+- SHx
