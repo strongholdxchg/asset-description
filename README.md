@@ -25,10 +25,10 @@ This was inspired by Dr. David Mazieres.
 
 # Listed Assets
 
-- USD(S)
-- BTC
-- XRP
-- ETH
+- USD(S) - https://stellar.expert/explorer/public/asset/USD-GBSTRUSD7IRX73RQZBL3RQUH6KS3O4NYFY3QCALDLZD77XMZOPWAVTUK
+- BTC - https://stellar.expert/explorer/public/asset/BTC-GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG
+- XRP - https://stellar.expert/explorer/public/account/GBSTRXRPA7ALGIXDYBHQ6WYWY2NAHLSF64Q3W5DKAPZNMRHKQL6FYXUA
+- ETH - https://stellar.expert/explorer/public/asset/ETH-GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG
 - XLM
-- LTC
-- SHx
+- LTC - https://stellar.expert/explorer/public/account/GCSTRLTC73UVXIYPHYTTQUUSDTQU2KQW5VKCE4YCMEHWF44JKDMQAL23
+- SHx - https://stellar.expert/explorer/public/account/GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH
